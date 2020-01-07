@@ -1,0 +1,15 @@
+export const modalGrey = '#EDEDED';
+export const grey = '#E2E3E4';
+export const primaryText = '#444444';
+export const darkBlack = '#0F0E0E';
+export const black = '#000000';
+export const dimGray = '#2c2c2c';
+export const white = '#FFFFFF';
+export const davyGrey = '#555555';
+export const vividBlue = '#007AFF';
+export const divider = '#555';
+export const lightgray = '#777';
+export const graysuit = '#8E8E93';
+export const hologray = '#CCCCCC';
+export const lightGreyText = '#C0C0C0';
+export const mediumGrey = '#696969';
